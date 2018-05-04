@@ -1,0 +1,77 @@
+{
+    "recommend": {
+        "swiper": [{
+                "item-list": [{
+                    "id": "1",
+                    "img": "img/1.jpg"
+                }, {
+                    "id": "2",
+                    "img": "img/1.jpg"
+                }, {
+                    "id": "3",
+                    "img": "img/1.jpg"
+                }]
+            },
+            {
+                "item-list": [{
+                    "id": "4",
+                    "img": "img/1.jpg"
+                }, {
+                    "id": "5",
+                    "img": "img/1.jpg"
+                }, {
+                    "id": "6",
+                    "img": "img/1.jpg"
+                }]
+            },
+            {
+                "item-list": [{
+                    "id": "7",
+                    "img": "img/1.jpg"
+                }, {
+                    "id": "8",
+                    "img": "img/1.jpg"
+                }, {
+                    "id": "9",
+                    "img": "img/1.jpg"
+                }]
+            }
+        ],
+        "goodsList": [{
+            "id": "10",
+            "img": "img/1.jpg",
+            "text": "goodslist1"
+        }, {
+            "id": "11",
+            "img": "img/1.jpg",
+            "text": "goodslist2"
+        }, {
+            "id": "12",
+            "img": "img/1.jpg",
+            "text": "goodslist3"
+        }, {
+            "id": "13",
+            "img": "img/1.jpg",
+            "text": "goodslist4"
+        }]
+    },
+    "girl": {
+        "goodsList": [{
+            "id": "10",
+            "img": "img/1.jpg",
+            "text": "goodslist1"
+        }, {
+            "id": "11",
+            "img": "img/1.jpg",
+            "text": "goodslist2"
+        }, {
+            "id": "12",
+            "img": "img/1.jpg",
+            "text": "goodslist3"
+        }, {
+            "id": "13",
+            "img": "img/1.jpg",
+            "text": "goodslist4"
+        }]
+    }
+}
